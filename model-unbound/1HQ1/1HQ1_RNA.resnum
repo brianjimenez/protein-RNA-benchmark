@@ -1,0 +1,45 @@
+      COMPLEX                         RNA
+Chain   Res_Num   Res      Chain   Res_Num  Res 
+---------------------------------------------------
+  b      130        g  ->   a        1        g
+  b      131        g  ->   a        2        g
+  b      132        c  ->   a        3        c
+  b      136        g  ->   a        4        g
+  b      137        u  ->   a        5        u
+  b      138        u  ->   a        6        u
+  b      139        u  ->   a        7        u
+  b      140        a  ->   a        8        a
+  b      141        c  ->   a        9        c
+  b      142        c  ->   a       10        c
+  b      143        a  ->   a       11        a
+  b      144        g  ->   a       12        g
+  b      145        g  ->   a       13        g
+  b      146        u  ->   a       14        u
+  b      147        c  ->   a       15        c
+  b      148        a  ->   a       16        a
+  b      149        g  ->   a       17        g
+  b      150        g  ->   a       18        g
+  b      151        u  ->   a       19        u
+  b      152        c  ->   a       20        c
+  b      153        c  ->   a       21        c
+  b      154        g  ->   a       22        g
+  b      156        a  ->   a       24        a
+  b      157        a  ->   a       25        a
+  b      158        g  ->   a       26        g
+  b      159        g  ->   a       27        g
+  b      160        a  ->   a       28        a
+  b      161        a  ->   a       29        a
+  b      162        g  ->   a       30        g
+  b      163        c  ->   a       31        c
+  b      164        a  ->   a       32        a
+  b      165        g  ->   a       33        g
+  b      166        c  ->   a       34        c
+  b      167        c  ->   a       35        c
+  b      168        a  ->   a       36        a
+  b      169        a  ->   a       37        a
+  b      170        g  ->   a       38        g
+  b      171        g  ->   a       39        g
+  b      172        c  ->   a       40        c
+  b      176        g  ->   a       41        g
+  b      177        c  ->   a       42        c
+  b      178      ccc  ->   a       43        c

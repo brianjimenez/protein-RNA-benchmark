@@ -1,0 +1,47 @@
+      COMPLEX                         RNA
+Chain   Res_Num   Res      Chain   Res_Num  Res 
+---------------------------------------------------
+  c        2        a  ->   c        2        a
+  c        3        a  ->   c        3        a
+  c        4        g  ->   c        4        g
+  c        5        g  ->   c        5        g
+  c        6        u  ->   c        6        u
+  c        7        c  ->   c        7        c
+  c        8        a  ->   c        8        a
+  c        9        u  ->   c        9        u
+  c       10        u  ->   c       10        u
+  c       11        c  ->   c       11        c
+  c       12        g  ->   c       12        g
+  e       17        a  ->   e       17        a
+  e       18        g  ->   e       18        g
+  e       19        u  ->   e       19        u
+  e       20        g  ->   e       20        g
+  e       21        g  ->   e       21        g
+  e       22        c  ->   e       22        c
+  e       23        c  ->   e       23        c
+  e       24        u  ->   e       24        u
+  e       25        u  ->   e       25        u
+  e       26        g  ->   e       26        g
+  e       27        c  ->   e       27        c
+  d        2        a  ->   d        2        a
+  d        3        a  ->   d        3        a
+  d        4        g  ->   d        4        g
+  d        5        g  ->   d        5        g
+  d        6        u  ->   d        6        u
+  d        7        c  ->   d        7        c
+  d        8        a  ->   d        8        a
+  d        9        u  ->   d        9        u
+  d       10        u  ->   d       10        u
+  d       11        c  ->   d       11        c
+  d       12        g  ->   d       12        g
+  f       17        a  ->   f       17        a
+  f       18        g  ->   f       18        g
+  f       19        u  ->   f       19        u
+  f       20        g  ->   f       20        g
+  f       21        g  ->   f       21        g
+  f       22        c  ->   f       22        c
+  f       23        c  ->   f       23        c
+  f       24        u  ->   f       24        u
+  f       25        u  ->   f       25        u
+  f       26        g  ->   f       26        g
+  f       27        c  ->   f       27        c

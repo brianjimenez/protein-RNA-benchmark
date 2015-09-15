@@ -1,0 +1,43 @@
+      COMPLEX                         RNA
+Chain   Res_Num   Res      Chain   Res_Num  Res 
+---------------------------------------------------
+  c        1        a  ->   c        1        a
+  c        2        g  ->   c        2        g
+  c        3        a  ->   c        3        a
+  c        4        c  ->   c        4        c
+  c        5        a  ->   c        5        a
+  c        6        g  ->   c        6        g
+  c        7        c  ->   c        7        c
+  c        8        a  ->   c        8        a
+  c        9        u  ->   c        9        u
+  c       10        u  ->   c       10        u
+  c       11        a  ->   c       11        a
+  c       12        u  ->   c       12        u
+  c       13        g  ->   c       13        g
+  c       14        c  ->   c       14        c
+  c       15        u  ->   c       15        u
+  c       16        g  ->   c       16        g
+  c       17        u  ->   c       17        u
+  c       18        c  ->   c       18        c
+  c       19        u  ->   c       19        u
+  c       20        u  ->   c       20        u
+  d        1        a  ->   d        1        a
+  d        2        g  ->   d        2        g
+  d        3        a  ->   d        3        a
+  d        4        c  ->   d        4        c
+  d        5        a  ->   d        5        a
+  d        6        g  ->   d        6        g
+  d        7        c  ->   d        7        c
+  d        8        a  ->   d        8        a
+  d        9        u  ->   d        9        u
+  d       10        u  ->   d       10        u
+  d       11        a  ->   d       11        a
+  d       12        u  ->   d       12        u
+  d       13        g  ->   d       13        g
+  d       14        c  ->   d       14        c
+  d       15        u  ->   d       15        u
+  d       16        g  ->   d       16        g
+  d       17        u  ->   d       17        u
+  d       18        c  ->   d       18        c
+  d       19        u  ->   d       19        u
+  d       20        u  ->   d       20        u

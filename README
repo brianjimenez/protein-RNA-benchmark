@@ -1,0 +1,60 @@
+PROTEIN-RNA BENCHMARK V1.0 README FILE
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Thanks for downloading the Protein-RNA benchmark v1.0. This benchmark is composed of 106 cases,with 5 unbound-unbound, 4 unbound-pseudo-unbound, 62 unbound-bound, 5 unbound-model, 8 model-unbound, 19 model-bound and 3 model-model cases. You will find here the directories corresponding to all these cases, named according to their complex PDB references: 
+
+
+   - unbound-unbound/        --> 1ASY/ 1DFU/ 1OB2/ 1R3E/ 2FMT/
+   - unbound-pseudo-unbound/ --> 1B23/ 1MFQ/ 1QTQ/ 1U0B/
+   - unbound-bound/          --> 1B7F/ 1C9S/ 1DK1/ 1E7K/ 1EC6/ 1EIY/ 1EKZ/ 1F7U/ 1G1X/ 1H3E/ 1H4S/ 1HC8/ 1HVU/
+                                 1JBR/ 1K8W/ 1KOG/ 1KQ2/ 1M5O/ 1M8V/ 1M8W/ 1MMS/ 1N78/ 1Q2R/ 1SER/ 1T0K/ 1T4L/
+                                 1U63/ 1WNE/ 1WPU/ 1WSU/ 1YVP/ 2AD9/ 2ADB/ 2ADC/ 2ASB/ 2AZ0/ 2AZX/ 2BGG/ 2BH2/
+                                 2BTE/ 2BU1/ 2C0B/ 2CZJ/ 2ERR/ 2F8K/ 2FK6/ 2GIC/ 2GJE/ 2GJW/ 2HGH/ 2HW8/ 2I91/
+                                 2IX1/ 2PY9/ 2QUX/ 2R7R/ 3BO2/ 3BSB/ 3BSO/ 3BSX/ 3BX2/ 3CIY/
+   - unbound-model/          --> 1C0A/ 1EFW/ 1J1U/ 1J2B/ 1VFG/ 2DRA/	
+   - model-unbound/          --> 1FEU/ 1HQ1/ 1LNG/ 1OOA/ 1RKJ/ 2R8S/ 2V3C/ 2ZKO/
+   - model-bound/            --> 1DDL/ 1E8O/ 1FXL/ 1K1G/ 1RLG/ 2B3J/ 2CJK/ 2D6F/ 2DB3/ 2DER/ 2FY1/ 2I82/ 2IPY/ 2JPP/ 2NUG/
+   - model-model/            --> 1QF6/ 1VFG/ 2DU3/
+	
+
+Within each directory you will find the following files (XXXX represents the corresponding directory name for each case):
+
+
+	- XXXX_complex.pdb		The unmodified coordinates of the considered protein and RNA chains from the complex RCSB PDB file
+
+	- XXXX_complex.fasta		The FASTA format sequences of the considered protein and RNA chains from the complex RCSB PDB file
+
+	- XXXX_prot.pdb			The unmodified coordinates of the considered protein chain/s from the protein unbound RCSB PDB file or coordinates 
+					from the protein model pdb (for model-unbound, model-bound or model-model cases)
+
+	- XXXX_prot.fasta		The FASTA format sequence/s of the considered protein chain/s from the protein unbound RCSB PDB file or input FASTA format sequence/s                                              from the complex RCSB PDB file used for building the protein homology model (for model-unbound, model-bound or model-model cases)
+
+	- XXXX_prot.resnum		Residue numbering correspondence between complex and individual protein structures
+
+	- XXXX_RNA.pdb			The unmodified coordinates of the considered RNA chain/s from the RNA unbound RCSB PDB file or coordinates from the 
+                                        complex RCSB PDB file (for unbound-bound or model-bound cases) or from the RNA model pdb (for unbound-model or model-model cases)
+
+	- XXXX_RNA.fasta		The FASTA format sequence/s of the considered RNA chain/s from the RNA unbound RCSB PDB file or from the 
+                                        complex RCSB PDB file (for unbound-bound, model-bound and for unbound-model or model-model cases as the input sequences for the modelling)
+	
+	- XXXX_RNA.resnum		Residue numbering correspondence between complex and individual RNA structures
+
+
+In unbound-model, model_unbound, model-bound and model-model directories you can also find the following files:
+
+
+	- XXXX_PROTtemplate.pdb		The unmodified coordinates of the considered protein chain/s from the template RCSB PDB file
+
+	- XXXX_PROTtemplate.fasta	The FASTA format sequence/s of the considered protein chain/s from the template RCSB PDB file
+
+	- XXXX_prot-template.ali	The alignment of protein and template sequences used for modelling the unbound protein structure
+
+	- XXXX_RNAtemplate.pdb		The unmodified coordinates of the considered RNA chain/s from the template RCSB PDB file
+
+	- XXXX_RNAtemplate.fasta	The FASTA format sequence/s of the considered RNA chain/s from the template RCSB PDB file
+
+	- XXXX_RNA-template.ali		The alignment of RNA and template sequences used for modelling the unbound RNA structure
+
+
+You can contact Juan Fernández-Recio for questions or suggestions at juanf@bsc.es
+

@@ -1,0 +1,17 @@
+      COMPLEX                         RNA
+Chain   Res_Num   Res      Chain   Res_Num  Res 
+---------------------------------------------------
+  c      405        u  ->   a       50        u
+  c      406        g  ->   a       51        g
+  c      407        u  ->   a       52        u
+  c      408        g  ->   a       53        g
+  c      410      fhu  ->   a       55      psu
+  c      411        c  ->   a       56        c
+  c      412        g  ->   a       57        g
+  c      414        u  ->   a       59        u
+  c      415        c  ->   a       60        c
+  c      416        c  ->   a       61        c
+  c      417        a  ->   a       62        a
+  c      418        c  ->   a       63        c
+  c      419        a  ->   a       64        a
+  c      420        g  ->   a       65        g

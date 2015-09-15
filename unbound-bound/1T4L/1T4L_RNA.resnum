@@ -1,0 +1,35 @@
+      COMPLEX                         RNA
+Chain   Res_Num   Res      Chain   Res_Num  Res 
+---------------------------------------------------
+  a        1        g  ->   a        1        g
+  a        2        g  ->   a        2        g
+  a        3        g  ->   a        3        g
+  a        4        a  ->   a        4        a
+  a        5        u  ->   a        5        u
+  a        6        a  ->   a        6        a
+  a        7        c  ->   a        7        c
+  a        8        c  ->   a        8        c
+  a        9        a  ->   a        9        a
+  a       10        u  ->   a       10        u
+  a       11        g  ->   a       11        g
+  a       12        u  ->   a       12        u
+  a       13        u  ->   a       13        u
+  a       14        c  ->   a       14        c
+  a       15        a  ->   a       15        a
+  a       16        g  ->   a       16        g
+  a       17        a  ->   a       17        a
+  a       18        a  ->   a       18        a
+  a       19        g  ->   a       19        g
+  a       20        a  ->   a       20        a
+  a       21        a  ->   a       21        a
+  a       22        c  ->   a       22        c
+  a       23        g  ->   a       23        g
+  a       24        u  ->   a       24        u
+  a       25        g  ->   a       25        g
+  a       26        g  ->   a       26        g
+  a       27        u  ->   a       27        u
+  a       28        a  ->   a       28        a
+  a       29        u  ->   a       29        u
+  a       30        c  ->   a       30        c
+  a       31        u  ->   a       31        u
+  a       32        c  ->   a       32        c

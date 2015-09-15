@@ -1,0 +1,30 @@
+      COMPLEX                         RNA
+Chain   Res_Num   Res      Chain   Res_Num  Res 
+---------------------------------------------------
+  c        6        g  ->   c        6        g
+  c        7        a  ->   c        7        a
+  c        8        c  ->   c        8        c
+  c        9        c  ->   c        9        c
+  c       10        g  ->   c       10        g
+  c       11        g  ->   c       11        g
+  c       12        a  ->   c       12        a
+  c       13        g  ->   c       13        g
+  c       14        u  ->   c       14        u
+  c       15        g  ->   c       15        g
+  c       16        u  ->   c       16        u
+  c       17        c  ->   c       17        c
+  d       50        g  ->   d       50        g
+  d       51        a  ->   d       51        a
+  d       52        c  ->   d       52        c
+  d       53        g  ->   d       53        g
+  d       54        c  ->   d       54        c
+  d       55        a  ->   d       55        a
+  d       56        g  ->   d       56        g
+  d       57        a  ->   d       57        a
+  d       58        g  ->   d       58        g
+  d       59        a  ->   d       59        a
+  d       60        u  ->   d       60        u
+  d       61        g  ->   d       61        g
+  d       62        g  ->   d       62        g
+  d       63        u  ->   d       63        u
+  d       64        c  ->   d       64        c
